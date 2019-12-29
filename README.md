@@ -5,11 +5,28 @@ In this module, we’ll practice our analysis, visualization, and statistical sk
 <br> <B> Challenge part1
   <br> Get the Weather Description and Amount of Precipitation for Each City
   <br>Files:
+ <br>  https://github.com/LISASHAH/World_Weather_Analysis.git/Weather_Database.ipynb
+ <br>  https://github.com/LISASHAH/World_Weather_Analysis/blob/master/weather_data/WeatherPy_challenge.csv
   
   <br> <B> Challenge part2
   <br> Have Customers Narrow Their Travel Searches Based on Temperature and Precipitation
   <br>Files:
+<br>  https://github.com/LISASHAH/World_Weather_Analysis.git/Vacation_Search.ipynb
+<br>  https://github.com/LISASHAH/World_Weather_Analysis/blob/master/weather_data/WeatherPy_vacation.csv
+<br>  https://github.com/LISASHAH/World_Weather_Analysis/blob/master/weather_data/WeatherPy_vacation_map.png
+<br>  https://github.com/LISASHAH/World_Weather_Analysis/blob/master/weather_data/WeatherPy_vacation_map1.PNG
   
   <br> <B> Challenge part3
   <br> Create a Travel Itinerary with a Corresponding Map
   <br>Files:
+<br>  https://github.com/LISASHAH/World_Weather_Analysis.git/Vacation_Itinerary.ipynb
+<br>  https://github.com/LISASHAH/World_Weather_Analysis/blob/master/weather_data/WeatherPy_travel_map.png
+<br>  https://github.com/LISASHAH/World_Weather_Analysis/blob/master/weather_data/WeatherPy_travel_map_markers.png
+
+
+
+
+
+
+
+
