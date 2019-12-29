@@ -22,13 +22,3 @@ In this module, we’ll practice our analysis, visualization, and statistical sk
 <br>  https://github.com/LISASHAH/World_Weather_Analysis/blob/master/Vacation_Itinerary.ipynb
 <br>  https://github.com/LISASHAH/World_Weather_Analysis/blob/master/weather_data/WeatherPy_travel_map.png
 <br>  https://github.com/LISASHAH/World_Weather_Analysis/blob/master/weather_data/WeatherPy_travel_map_markers.png
-
-
-https://github.com/LISASHAH/World_Weather_Analysis/blob/master/VacationPy.ipynb
-
-
-
-
-
-
-
